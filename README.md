@@ -13,9 +13,9 @@
 
 ## 🥷 멤버
 
-- [준찌](https://github.com/juunzzi)
-- [록바](https://github.com/lokba)
-- 샐리
-- [꼬재](https://github.com/kkojae91)
-- 도리
-- 무비
+- [준찌](https://velog.io/@rat8397)
+- [록바](https://velog.io/@lokba)
+- [샐리](https://velog.io/@liswktjs)
+- [꼬재](https://velog.io/@kkojae91)
+- [도리](https://prefer2.tistory.com/)
+- [무비](https://velog.io/@movie)
